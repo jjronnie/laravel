@@ -1,10 +1,10 @@
  <!--navbar-->
  <nav class="navbar glass" style="height: 70px">
     <span
-        ><a href="#home" style="display: flex; align-items: center"
+        ><a href="{{route('home')}}" style="display: flex; align-items: center"
             ><img
                 class="img2"
-                src="./img/mountain.png"
+                src="{{asset('./img/mountain.png')}}"
                 width="40"
                 style="margin: -25px -10px -25px -20px"
             />
@@ -38,6 +38,6 @@
             </div>
         </li>
     </ul>
-    <img src="./img/menu-btn.png" alt="" class="menu-btn" />
+    <img src="{{asset('./img/menu-btn.png')}}" alt="" class="menu-btn" />
 </nav>
 <!--navbar-->
