@@ -45,7 +45,7 @@
                         <a href="#" class="ctn">View Details</a>
                     </article>
                     <article class="card col">
-                        <img src="./img/img2.jfif" />
+                        <img src="{{asset('./img/img2.jfif')}}" />
                         <h4 class="dark">Walking holidays</h4>
                         <p class="font-color">
                             Join small guided group walks, enjoy a challenging
