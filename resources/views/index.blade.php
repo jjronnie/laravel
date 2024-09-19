@@ -41,7 +41,7 @@
                         <p class="font-color">
                             Everest base camp trek is without a doubt, one of
                             the most renowned travel destinations in the world.
-                        </p>
+                        </p>      
                         <a href="#" class="ctn">View Details</a>
                     </article>
                     <article class="card col">
