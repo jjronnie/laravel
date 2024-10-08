@@ -37,7 +37,7 @@
                 <div class="row">
                     <article class="card col">
                         <img class="card-img" src="./img/img1.jfif" />
-                        <h4 class="dark">Everest camp trek</h4>
+                        <h4 class="dark">Everest Camp Trek</h4>
                         <p class="font-color">
                             Everest base camp trek is without a doubt, one of
                             the most renowned travel destinations in the world.
