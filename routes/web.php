@@ -19,6 +19,10 @@ use App\Http\Controllers\ContactController;
 // Route::get('/', function () {
 //     return view('index');
 // });
+
 Route::get('/',[IndexController::class,'index'])-> name('home');
+
 Route::get('/about',[AboutController::class,'index'])-> name('about');
+
 Route::get('/contact',[ContactController::class,'index'])-> name('contact');
+
